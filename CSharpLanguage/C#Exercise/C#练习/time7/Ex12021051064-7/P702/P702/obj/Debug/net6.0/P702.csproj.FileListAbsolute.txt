@@ -1,0 +1,15 @@
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\bin\Debug\net6.0\P702.exe
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\bin\Debug\net6.0\P702.deps.json
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\bin\Debug\net6.0\P702.runtimeconfig.json
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\bin\Debug\net6.0\P702.dll
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\bin\Debug\net6.0\P702.pdb
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.csproj.AssemblyReference.cache
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.AssemblyInfoInputs.cache
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.AssemblyInfo.cs
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.dll
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\refint\P702.dll
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.pdb
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\P702.genruntimeconfig.cache
+D:\C#\C#练习\time7\Ex12021051064-7\P702\P702\obj\Debug\net6.0\ref\P702.dll

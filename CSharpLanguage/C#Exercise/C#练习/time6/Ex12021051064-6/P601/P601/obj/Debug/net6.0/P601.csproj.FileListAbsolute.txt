@@ -1,0 +1,15 @@
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\bin\Debug\net6.0\P601.exe
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\bin\Debug\net6.0\P601.deps.json
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\bin\Debug\net6.0\P601.runtimeconfig.json
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\bin\Debug\net6.0\P601.dll
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\bin\Debug\net6.0\P601.pdb
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.csproj.AssemblyReference.cache
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.AssemblyInfoInputs.cache
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.AssemblyInfo.cs
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.dll
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\refint\P601.dll
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.pdb
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\P601.genruntimeconfig.cache
+D:\C#\C#练习\time6\Ex12021051064-6\P601\P601\obj\Debug\net6.0\ref\P601.dll

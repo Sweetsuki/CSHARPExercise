@@ -1,0 +1,15 @@
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+D:\C#自我练习\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll

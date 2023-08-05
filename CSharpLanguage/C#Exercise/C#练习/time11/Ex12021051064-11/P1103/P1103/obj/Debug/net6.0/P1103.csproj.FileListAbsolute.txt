@@ -1,0 +1,15 @@
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\bin\Debug\net6.0\P1103.exe
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\bin\Debug\net6.0\P1103.deps.json
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\bin\Debug\net6.0\P1103.runtimeconfig.json
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\bin\Debug\net6.0\P1103.dll
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\bin\Debug\net6.0\P1103.pdb
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.csproj.AssemblyReference.cache
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.AssemblyInfoInputs.cache
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.AssemblyInfo.cs
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.dll
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\refint\P1103.dll
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.pdb
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\P1103.genruntimeconfig.cache
+D:\C#\C#练习\time11\Ex12021051064-11\P1103\P1103\obj\Debug\net6.0\ref\P1103.dll

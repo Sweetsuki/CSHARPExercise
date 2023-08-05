@@ -1,0 +1,15 @@
+D:\C#自我练习\Exercise24\Exercise24\bin\Debug\net6.0\Exercise24.exe
+D:\C#自我练习\Exercise24\Exercise24\bin\Debug\net6.0\Exercise24.deps.json
+D:\C#自我练习\Exercise24\Exercise24\bin\Debug\net6.0\Exercise24.runtimeconfig.json
+D:\C#自我练习\Exercise24\Exercise24\bin\Debug\net6.0\Exercise24.dll
+D:\C#自我练习\Exercise24\Exercise24\bin\Debug\net6.0\Exercise24.pdb
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.csproj.AssemblyReference.cache
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.AssemblyInfoInputs.cache
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.AssemblyInfo.cs
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.csproj.CoreCompileInputs.cache
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.dll
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\refint\Exercise24.dll
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.pdb
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\Exercise24.genruntimeconfig.cache
+D:\C#自我练习\Exercise24\Exercise24\obj\Debug\net6.0\ref\Exercise24.dll

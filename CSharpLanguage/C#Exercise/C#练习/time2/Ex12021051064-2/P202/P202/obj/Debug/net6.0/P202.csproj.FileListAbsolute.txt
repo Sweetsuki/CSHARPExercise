@@ -1,0 +1,15 @@
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\bin\Debug\net6.0\P202.exe
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\bin\Debug\net6.0\P202.deps.json
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\bin\Debug\net6.0\P202.runtimeconfig.json
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\bin\Debug\net6.0\P202.dll
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\bin\Debug\net6.0\P202.pdb
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.csproj.AssemblyReference.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.AssemblyInfoInputs.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.AssemblyInfo.cs
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.dll
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\refint\P202.dll
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.pdb
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\P202.genruntimeconfig.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P202\P202\obj\Debug\net6.0\ref\P202.dll

@@ -1,0 +1,8 @@
+D:\学习\c#\复习\3\31.3\bin\Debug\31.3.exe.config
+D:\学习\c#\复习\3\31.3\bin\Debug\31.3.exe
+D:\学习\c#\复习\3\31.3\bin\Debug\31.3.pdb
+D:\学习\c#\复习\3\31.3\obj\Debug\31.3.csproj.AssemblyReference.cache
+D:\学习\c#\复习\3\31.3\obj\Debug\31.3.csproj.SuggestedBindingRedirects.cache
+D:\学习\c#\复习\3\31.3\obj\Debug\31.3.csproj.CoreCompileInputs.cache
+D:\学习\c#\复习\3\31.3\obj\Debug\31.3.exe
+D:\学习\c#\复习\3\31.3\obj\Debug\31.3.pdb

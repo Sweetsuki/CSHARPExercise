@@ -1,0 +1,15 @@
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\bin\Debug\net6.0\P204.exe
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\bin\Debug\net6.0\P204.deps.json
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\bin\Debug\net6.0\P204.runtimeconfig.json
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\bin\Debug\net6.0\P204.dll
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\bin\Debug\net6.0\P204.pdb
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.csproj.AssemblyReference.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.AssemblyInfoInputs.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.AssemblyInfo.cs
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.dll
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\refint\P204.dll
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.pdb
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\P204.genruntimeconfig.cache
+D:\C#\C#练习\time2\Ex12021051064-2\P204\P204\obj\Debug\net6.0\ref\P204.dll

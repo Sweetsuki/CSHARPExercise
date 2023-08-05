@@ -1,0 +1,15 @@
+D:\C#自我练习\Exercise20\Exercise20\bin\Debug\net6.0\Exercise20.exe
+D:\C#自我练习\Exercise20\Exercise20\bin\Debug\net6.0\Exercise20.deps.json
+D:\C#自我练习\Exercise20\Exercise20\bin\Debug\net6.0\Exercise20.runtimeconfig.json
+D:\C#自我练习\Exercise20\Exercise20\bin\Debug\net6.0\Exercise20.dll
+D:\C#自我练习\Exercise20\Exercise20\bin\Debug\net6.0\Exercise20.pdb
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.csproj.AssemblyReference.cache
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.AssemblyInfoInputs.cache
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.AssemblyInfo.cs
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.csproj.CoreCompileInputs.cache
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.dll
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\refint\Exercise20.dll
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.pdb
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\Exercise20.genruntimeconfig.cache
+D:\C#自我练习\Exercise20\Exercise20\obj\Debug\net6.0\ref\Exercise20.dll

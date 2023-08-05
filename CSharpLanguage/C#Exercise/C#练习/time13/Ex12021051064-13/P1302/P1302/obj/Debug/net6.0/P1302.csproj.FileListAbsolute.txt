@@ -1,0 +1,15 @@
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\bin\Debug\net6.0\P1302.exe
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\bin\Debug\net6.0\P1302.deps.json
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\bin\Debug\net6.0\P1302.runtimeconfig.json
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\bin\Debug\net6.0\P1302.dll
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\bin\Debug\net6.0\P1302.pdb
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.csproj.AssemblyReference.cache
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.AssemblyInfoInputs.cache
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.AssemblyInfo.cs
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.dll
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\refint\P1302.dll
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.pdb
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\P1302.genruntimeconfig.cache
+D:\C#\C#练习\time13\Ex12021051064-13\P1302\P1302\obj\Debug\net6.0\ref\P1302.dll

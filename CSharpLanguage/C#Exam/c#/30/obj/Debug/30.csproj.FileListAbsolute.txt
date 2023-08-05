@@ -1,0 +1,16 @@
+D:\学习\c#\复习\3\30\bin\Debug\30.exe.config
+D:\学习\c#\复习\3\30\bin\Debug\30.exe
+D:\学习\c#\复习\3\30\bin\Debug\30.pdb
+D:\学习\c#\复习\3\30\obj\Debug\30.csproj.AssemblyReference.cache
+D:\学习\c#\复习\3\30\obj\Debug\30.csproj.SuggestedBindingRedirects.cache
+D:\学习\c#\复习\3\30\obj\Debug\30.csproj.CoreCompileInputs.cache
+D:\学习\c#\复习\3\30\obj\Debug\30.exe
+D:\学习\c#\复习\3\30\obj\Debug\30.pdb
+C:\Users\18351154069\Desktop\c#\30\bin\Debug\30.exe.config
+C:\Users\18351154069\Desktop\c#\30\bin\Debug\30.exe
+C:\Users\18351154069\Desktop\c#\30\bin\Debug\30.pdb
+C:\Users\18351154069\Desktop\c#\30\obj\Debug\30.csproj.AssemblyReference.cache
+C:\Users\18351154069\Desktop\c#\30\obj\Debug\30.csproj.SuggestedBindingRedirects.cache
+C:\Users\18351154069\Desktop\c#\30\obj\Debug\30.csproj.CoreCompileInputs.cache
+C:\Users\18351154069\Desktop\c#\30\obj\Debug\30.exe
+C:\Users\18351154069\Desktop\c#\30\obj\Debug\30.pdb

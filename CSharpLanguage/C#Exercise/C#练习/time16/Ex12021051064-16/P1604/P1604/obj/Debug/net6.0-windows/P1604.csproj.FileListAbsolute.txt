@@ -1,0 +1,17 @@
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\bin\Debug\net6.0-windows\P1604.exe
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\bin\Debug\net6.0-windows\P1604.dll
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.csproj.AssemblyReference.cache
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.Form1.resources
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.csproj.GenerateResource.cache
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.AssemblyInfoInputs.cache
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.AssemblyInfo.cs
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.dll
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\refint\P1604.dll
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.pdb
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\bin\Debug\net6.0-windows\P1604.deps.json
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\bin\Debug\net6.0-windows\P1604.runtimeconfig.json
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\bin\Debug\net6.0-windows\P1604.pdb
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\P1604.genruntimeconfig.cache
+D:\C#\C#练习\time16\Ex12021051064-16\P1604\P1604\obj\Debug\net6.0-windows\ref\P1604.dll

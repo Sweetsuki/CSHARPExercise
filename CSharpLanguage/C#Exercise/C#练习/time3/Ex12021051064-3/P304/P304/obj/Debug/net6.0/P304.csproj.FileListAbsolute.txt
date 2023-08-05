@@ -1,0 +1,15 @@
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\bin\Debug\net6.0\P304.exe
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\bin\Debug\net6.0\P304.deps.json
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\bin\Debug\net6.0\P304.runtimeconfig.json
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\bin\Debug\net6.0\P304.dll
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\bin\Debug\net6.0\P304.pdb
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.csproj.AssemblyReference.cache
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.AssemblyInfoInputs.cache
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.AssemblyInfo.cs
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.dll
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\refint\P304.dll
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.pdb
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\P304.genruntimeconfig.cache
+D:\C#\C#练习\time3\Ex12021051064-3\P304\P304\obj\Debug\net6.0\ref\P304.dll

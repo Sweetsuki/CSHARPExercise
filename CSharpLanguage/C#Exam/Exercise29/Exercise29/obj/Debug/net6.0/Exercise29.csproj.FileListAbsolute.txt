@@ -1,0 +1,15 @@
+D:\C#自我练习\Exercise29\Exercise29\bin\Debug\net6.0\Exercise29.exe
+D:\C#自我练习\Exercise29\Exercise29\bin\Debug\net6.0\Exercise29.deps.json
+D:\C#自我练习\Exercise29\Exercise29\bin\Debug\net6.0\Exercise29.runtimeconfig.json
+D:\C#自我练习\Exercise29\Exercise29\bin\Debug\net6.0\Exercise29.dll
+D:\C#自我练习\Exercise29\Exercise29\bin\Debug\net6.0\Exercise29.pdb
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.csproj.AssemblyReference.cache
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.AssemblyInfoInputs.cache
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.AssemblyInfo.cs
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.csproj.CoreCompileInputs.cache
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.dll
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\refint\Exercise29.dll
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.pdb
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\Exercise29.genruntimeconfig.cache
+D:\C#自我练习\Exercise29\Exercise29\obj\Debug\net6.0\ref\Exercise29.dll

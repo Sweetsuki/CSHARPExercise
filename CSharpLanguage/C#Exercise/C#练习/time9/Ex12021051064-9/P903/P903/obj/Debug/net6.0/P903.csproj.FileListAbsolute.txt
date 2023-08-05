@@ -1,0 +1,15 @@
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\bin\Debug\net6.0\P903.exe
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\bin\Debug\net6.0\P903.deps.json
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\bin\Debug\net6.0\P903.runtimeconfig.json
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\bin\Debug\net6.0\P903.dll
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\bin\Debug\net6.0\P903.pdb
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.csproj.AssemblyReference.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.AssemblyInfoInputs.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.AssemblyInfo.cs
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.dll
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\refint\P903.dll
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.pdb
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\P903.genruntimeconfig.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P903\P903\obj\Debug\net6.0\ref\P903.dll

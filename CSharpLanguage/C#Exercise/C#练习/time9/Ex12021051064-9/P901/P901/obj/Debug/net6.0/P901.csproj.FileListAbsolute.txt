@@ -1,0 +1,15 @@
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\bin\Debug\net6.0\P901.exe
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\bin\Debug\net6.0\P901.deps.json
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\bin\Debug\net6.0\P901.runtimeconfig.json
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\bin\Debug\net6.0\P901.dll
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\bin\Debug\net6.0\P901.pdb
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.csproj.AssemblyReference.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.AssemblyInfoInputs.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.AssemblyInfo.cs
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.dll
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\refint\P901.dll
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.pdb
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\P901.genruntimeconfig.cache
+D:\C#\C#练习\time9\Ex12021051064-9\P901\P901\obj\Debug\net6.0\ref\P901.dll

@@ -1,0 +1,15 @@
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\bin\Debug\net6.0\P1504.exe
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\bin\Debug\net6.0\P1504.deps.json
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\bin\Debug\net6.0\P1504.runtimeconfig.json
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\bin\Debug\net6.0\P1504.dll
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\bin\Debug\net6.0\P1504.pdb
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.csproj.AssemblyReference.cache
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.AssemblyInfoInputs.cache
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.AssemblyInfo.cs
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.dll
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\refint\P1504.dll
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.pdb
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\P1504.genruntimeconfig.cache
+D:\C#\C#练习\time15\Ex12021051064-15\P1504\P1504\obj\Debug\net6.0\ref\P1504.dll

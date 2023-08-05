@@ -1,0 +1,15 @@
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\P201.exe
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\P201.deps.json
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\P201.runtimeconfig.json
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\P201.dll
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\P201.pdb
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.csproj.AssemblyReference.cache
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.AssemblyInfoInputs.cache
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.AssemblyInfo.cs
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.dll
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\P201.dll
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.pdb
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\P201.genruntimeconfig.cache
+D:\C#\C#练习\time2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\P201.dll

@@ -1,0 +1,16 @@
+D:\学习\c#\复习\3\7\bin\Debug\7.exe.config
+D:\学习\c#\复习\3\7\bin\Debug\7.exe
+D:\学习\c#\复习\3\7\bin\Debug\7.pdb
+D:\学习\c#\复习\3\7\obj\Debug\7.csproj.AssemblyReference.cache
+D:\学习\c#\复习\3\7\obj\Debug\7.csproj.SuggestedBindingRedirects.cache
+D:\学习\c#\复习\3\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+D:\学习\c#\复习\3\7\obj\Debug\7.exe
+D:\学习\c#\复习\3\7\obj\Debug\7.pdb
+C:\Users\18351154069\Desktop\c#\7\bin\Debug\7.exe.config
+C:\Users\18351154069\Desktop\c#\7\bin\Debug\7.exe
+C:\Users\18351154069\Desktop\c#\7\bin\Debug\7.pdb
+C:\Users\18351154069\Desktop\c#\7\obj\Debug\7.csproj.AssemblyReference.cache
+C:\Users\18351154069\Desktop\c#\7\obj\Debug\7.csproj.SuggestedBindingRedirects.cache
+C:\Users\18351154069\Desktop\c#\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+C:\Users\18351154069\Desktop\c#\7\obj\Debug\7.exe
+C:\Users\18351154069\Desktop\c#\7\obj\Debug\7.pdb

@@ -1,0 +1,15 @@
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\bin\Debug\net6.0\P805.exe
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\bin\Debug\net6.0\P805.deps.json
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\bin\Debug\net6.0\P805.runtimeconfig.json
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\bin\Debug\net6.0\P805.dll
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\bin\Debug\net6.0\P805.pdb
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.csproj.AssemblyReference.cache
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.AssemblyInfoInputs.cache
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.AssemblyInfo.cs
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.dll
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\refint\P805.dll
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.pdb
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\P805.genruntimeconfig.cache
+D:\C#\C#练习\time8\Ex12021051064-8\P805\P805\obj\Debug\net6.0\ref\P805.dll
